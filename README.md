@@ -1,2 +1,2 @@
 # NBA-Playoff-Prediction-Model
- NBA Playoff Prediction Model NBA Playoff Prediction Model May 2025 - Aug 2025May 2025 - Aug 2025 Built an AI-driven ML pipeline integrating regression models, NLP, LLMs, and API-sourced news to predict NBA playoff outcomes.
+Built an AI-driven ML pipeline integrating regression models, NLP, LLMs, and API-sourced news to predict NBA playoff outcomes. Leveraged season stats, player data, and box scores, achieving 81% predictive accuracy (AUC 0.83) with a 12% improvement over baseline models. Deployed a Streamlit dashboard with calibrated win probabilities and LLM-generated matchup explanations.
